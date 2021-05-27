@@ -35,14 +35,11 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
 
 .logo{
        font-family: fantasy;
        font-size: 20px;
-}
-
-.inicio{
-       
 }
 
 footer{
