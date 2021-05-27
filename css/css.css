@@ -21,18 +21,19 @@ header{
 
    
 
-    display: flex;
+   display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #E8E8E8;
 
 }
 
 .logo{
        font-family: fantasy;
        font-size: 20px;
+}
 
-
+.inicio{
+       
 }
 
 footer{
