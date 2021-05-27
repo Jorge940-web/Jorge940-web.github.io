@@ -27,15 +27,7 @@ header{
 
 }
 
-.nav_head{
-    list-style: none;
-    padding: 13px;
-    width: 200px;
-    
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
+
 
 .logo{
        font-family: fantasy;
